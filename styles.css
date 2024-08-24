@@ -45,7 +45,7 @@ main {
     display: flex;
     justify-content: center;
     position: fixed;
-    bottom: 20px; /* Adjust as needed */
+    bottom: 50px; /* Adjust as needed */
     width: 100%;
 }
 
@@ -58,3 +58,12 @@ main {
     border-radius: 5px;
     cursor: pointer;
 }
+#pp{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    
+}
+
+
